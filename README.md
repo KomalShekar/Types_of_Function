@@ -61,4 +61,3 @@ Special thanks to the OpenZeppelin team for the ERC-20 implementation.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Feel free to use this code directly for your GitHub repository!
